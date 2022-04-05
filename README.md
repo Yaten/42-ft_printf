@@ -8,7 +8,6 @@
   </a>
 </p>
 <p align="center">
-  <br>
   100/100
 </p>
 
